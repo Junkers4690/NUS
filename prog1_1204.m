@@ -1,0 +1,2 @@
+fprintf(s,'x -1000 y -1000 z -1000')
+fclose(s)

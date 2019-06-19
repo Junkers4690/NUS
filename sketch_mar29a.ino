@@ -1,7 +1,4 @@
-// Mateusz Janusz
-// Wojciech Domański
-// Jan Wyrwicz
-// 2019
+/* Mateusz Janusz, Wojciech Domański, Jan Wyrwicz 2019 */
 
 #define X_MIN_PIN           3
 #ifndef X_MAX_PIN
